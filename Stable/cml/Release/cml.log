@@ -1,0 +1,264 @@
+﻿  stdafx.cpp
+  MMatrix.cpp
+  MVector3.cpp
+  MXml.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MXml.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MXml.h(29,1): warning C4192: automatically excluding 'ISequentialStream' while importing type library 'msxml6.dll'
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MXml.h(29,1): warning C4192: automatically excluding '_FILETIME' while importing type library 'msxml6.dll'
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MLocale.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MZFileSystem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MZip.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(24,10): warning C4192: automatically excluding 'ISequentialStream' while importing type library 'msxml6.dll'
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(24,10): warning C4192: automatically excluding '_FILETIME' while importing type library 'msxml6.dll'
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(52,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(62,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(71,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(208,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(287,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(292,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(397,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(398,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(424,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(472,2): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(789,20): warning C4101: 'e': unreferenced local variable
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(811,20): warning C4101: 'e': unreferenced local variable
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MXml.cpp(838,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MZip.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MZip.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(980,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(982,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1004,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1027,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1139,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1140,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1161,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1159,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1203,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1204,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1225,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MZip.cpp(1223,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  seed.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\seed.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\seed.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  HMAC_SHA1.cpp
+  MMD5.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MMD5.cpp(276,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SHA1.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\SHA1.cpp(246,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\SHA1.cpp(251,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\SHA1.cpp(257,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\SHA1.cpp(262,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\SHA1.cpp(265,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\SHA1.cpp(245,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\SHA1.cpp(250,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\SHA1.cpp(256,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\SHA1.cpp(261,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CfgFile.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\CfgFile.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\CfgFile.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\CMList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\CfgFile.h(104,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CMError.c
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\CMError.c(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\CMError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\CMErrorDef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  CMLexicalAnalyzer.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\CMPtrList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\CMLexicalAnalyzer.cpp(47,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\CMLexicalAnalyzer.cpp(68,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\CMLexicalAnalyzer.cpp(74,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CommonLog.cpp
+  FileInfo.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\FileInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(54,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(155,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(151,2): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(152,2): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(161,2): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(162,2): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(204,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(214,2): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(221,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(232,41): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(234,2): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(278,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(271,2): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(272,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(285,2): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(291,2): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\FileInfo.cpp(390,38): warning C4293: '>>': shift count negative or too big, undefined behavior
+  hash.c
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\hash.c(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\hash.c(73,17): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  LibPak.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\LibPak.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\LibPak.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\CMList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MArchive.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MArchive.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncHttp.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MAsyncHttp.cpp(209,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MAsyncHttp.cpp(210,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MAsyncHttp.cpp(212,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MAsyncHttp.cpp(275,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MBlobArray.cpp
+  MCheckSum.cpp
+  MChunkReWriter.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\CMList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  MCrashDump.cpp
+  MCRC32.cpp
+  MCrypt.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\seed.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MCsvParser.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MCsvParser.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MCsvParser.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MDataChecker.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MDataChecker.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MDataChecker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MMemoryProxy.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MMath.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MDebug.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MDebug.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\fileinfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MDebug.cpp(164,2): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MDebug.cpp(200,2): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MDebug.cpp(222,36): warning C4535: calling _set_se_translator() requires /EHa
+  MemPool.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\mempool.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MHttpSpooler.cpp
+  MInet.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MInet.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MInetUtil.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MInetUtil.cpp(14,21): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MInetUtil.cpp(15,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MInetUtil.cpp(34,25): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MInetUtil.cpp(36,18): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MInetUtil.cpp(38,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MInetUtil.cpp(69,16): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MInetUtil.cpp(79,18): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  MLex.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MLex.cpp(73,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MLex.cpp(76,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MLocale.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MLocale.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMemoryProxy.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MMemoryProxy.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MMath.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MPageArray.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MPageArray.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MPdb.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(427,7): warning C4996: 'GetVersionExA': was declared deprecated
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(479,7): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(812,4): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(818,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(822,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(823,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(824,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(825,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(831,4): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(835,4): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(847,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(849,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(852,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(857,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MPdb.cpp(860,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MProcessController.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MProcessController.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MProfiler.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MProfiler.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MProfiler.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MProfiler.cpp(175,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MProfiler.cpp(247,5): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MProfiler.cpp(248,5): warning C4996: '_strdate': This function or variable may be unsafe. Consider using _strdate_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MProfiler.cpp(250,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MProfiler.cpp(253,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MProfiler.cpp(272,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MProfiler.cpp(287,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MRegistry.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MRegistry.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MRegistry.cpp(29,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MRegistry.cpp(17,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MRegistry.cpp(40,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MRegistry.cpp(54,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MRegistry.cpp(79,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MRegistry.cpp(108,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MRsaEncrypt.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MRsaEncrypt.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MSmartRefresh.cpp
+  Generating Code...
+  Compiling...
+  MStateMachine.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MStateMachine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MStrEx.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MStrEx.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MSync.cpp
+  MThread.cpp
+  MTraceMemory.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MTraceMemory.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MUtil.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MUtil.cpp(20,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MUtil.cpp(24,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MUtil.cpp(29,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MUtil.cpp(34,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MUtil.cpp(39,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MUtil.cpp(96,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MUtil.cpp(97,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MUtil.cpp(98,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MUtil.cpp(99,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MZFileSystem.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MZFileSystem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MZip.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MXml.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\FileInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(29,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(38,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(60,6): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(94,6): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(113,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(114,2): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(200,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(143,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(155,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(161,5): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(166,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(178,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(181,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(198,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(220,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(242,27): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(301,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(308,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(313,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(375,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(376,2): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(423,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MRsaEncrypt.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(512,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(497,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(531,11): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(540,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(543,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(568,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(587,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(609,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(579,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(769,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(766,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(770,5): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(781,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\Source\MZFileSystem.cpp(782,2): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  sha2.cpp
+  Generating Code...
+  MFolderNotifier.cpp
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MFolderNotifier.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\Include\MFolderNotifier.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MFolderNotifier.cpp(146,19): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\cml\source\MFolderNotifier.cpp(147,20): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  cml.vcxproj -> C:\DriveC\gunz1.5-reupload\Stable\cml\Lib\cml.lib

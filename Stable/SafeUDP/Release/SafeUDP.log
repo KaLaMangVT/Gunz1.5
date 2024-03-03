@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  MSafeUDP.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1545,5): warning MSB8012: TargetPath(C:\DriveC\gunz1.5-reupload\Stable\SafeUDP\Release\SafeUDP.lib) does not match the Library's OutputFile property value (C:\DriveC\gunz1.5-reupload\Stable\SafeUDP\lib\SafeUDP.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  SafeUDP.vcxproj -> C:\DriveC\gunz1.5-reupload\Stable\SafeUDP\Release\SafeUDP.lib

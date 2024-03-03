@@ -1,0 +1,828 @@
+﻿  stdafx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDebug.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MXml.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MXml.h(29,1): warning C4192: automatically excluding 'ISequentialStream' while importing type library 'msxml6.dll'
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MXml.h(29,1): warning C4192: automatically excluding '_FILETIME' while importing type library 'msxml6.dll'
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MUID.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchGlobal.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MBaseLocale.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\seed.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSharedCommandTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSharedCommandTable.h(497,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommand.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\mempool.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(108,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(126,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(144,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(170,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(172,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(195,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(247,59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(266,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(285,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(305,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(325,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(345,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(364,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(384,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(403,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandParameter.h(426,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandCommunicator.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandManager.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MTCPSocket.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MTrafficLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MTCPSocket.h(219,36): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandCommunicator.h(57,12): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MErrorTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MServer.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\RealCPNet.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\RealCPNet.h(152,33): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchServer.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\MDatabase\Include\ODBCRecordset.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MBaseItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MMemoryProxy.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MMath.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestConst.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MZFileSystem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MZip.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchBRMachine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchStatus.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MHackingTypes.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MSingleton.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MBaseGameType.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchTransDataType.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchObject.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MObject.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MGridMap.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MObjectTypes.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFriendInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchClan.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchChannel.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchChannel.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchBaseGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchAccountPenaltyInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchObject.h(942,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRule.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchTransDataType.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestPlayer.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchNPCObject.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestNPC.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestMap.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestScenario.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestDropTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchEvent.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchStageSetting.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchMap.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchStage.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchWorldItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchActiveTrapMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MVoteMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\SafeUDP\Include\MBasePacket.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\SafeUDP\Include\MSafeUDP.h(111,35): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\SafeUDP\Include\MSafeUDP.h(235,36): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncProxy.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShutdown.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShutdown.h(20,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MLadderGroup.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MLadderStatistics.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MStringRes.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchGambleMachine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\MMatchObjectCommandHistory.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\MConnectHistory.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchServer.h(612,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchClient.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MClient.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchObjCache.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  md5.cpp
+C:\DriveC\gunz1.5-reupload\Stable\sdk\md5\md5.cpp(343,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Achievements.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Achievements.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+  Blitz.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Blitz.cpp(143,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Blitz.cpp(144,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Blitz.cpp(145,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Demolition.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Demolition.cpp(84,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Demolition.cpp(85,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GunGame.cpp
+  IMatchRuleNewQuest.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\IMatchRuleNewQuest.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MActorDef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchWorldItemDesc.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MCompanionDef.cpp
+  MMatchRuleBlitzKrieg.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MActorDef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleCTF.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\MMatchRuleCTF.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleDemolition.cpp
+  MMatchRuleGunGame.cpp
+  MMatchRuleInfection.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\MMatchRuleInfection.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleSkillMap.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchWorldItemDesc.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleSpyMode.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\MMatchRuleSpyMode.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  SkillMap.cpp
+  MActorDef.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MActorDef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_GetAchievements.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MCommand.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommand.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommand.cpp(167,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommand.cpp(174,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MCommandBuilder.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandBuilder.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandBuilder.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MCommandManager.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandManager.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\CMPtrList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MStrEx.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandManager.cpp(126,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandManager.cpp(129,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandManager.cpp(281,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  MCommandParameter.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandParameter.cpp(201,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandParameter.cpp(216,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MCommandProfiler.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandProfiler.cpp(56,2): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandProfiler.cpp(210,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandProfiler.cpp(222,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandProfiler.cpp(244,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MGridMap.cpp
+  MLanguageConf.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MLanguageConf.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMessenger.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MLanguageConf.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchLanguageConf.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMessenger.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MLanguageConf.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleQuestChallenge.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleQuestChallenge.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuestChallenge.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MActorDef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MNewQuestScenario.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchWorldItemDesc.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleQuestChallenge.cpp(141,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MMessenger.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMessenger.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMessenger.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMessenger.cpp(81,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMessenger.cpp(123,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MNewQuestNpcManager.cpp
+  MNewQuestPlayerManager.cpp
+  MNewQuestScenario.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MNewQuestScenario.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MNewQuestScenario.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MUID.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MUID.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MObject.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MFormulaTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MSharedCommandTable.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MSharedCommandTable.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MSharedCommandTable.cpp(603,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MSharedCommandTable.cpp(1162,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMaster.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMaster.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMaster.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandBuilder.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMaster.cpp(81,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MChattingFilter.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MChattingFilter.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MChattingFilter.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MClient.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MClient.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandBuilder.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MClient.cpp(23,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MClient.cpp(26,16): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MClient.cpp(27,18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MClient.cpp(28,10): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MClient.cpp(119,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MClient.cpp(123,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MCustomClient.cpp
+  MMatchClient.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchClient.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchClient.cpp(692,18): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchClient.cpp(974,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchClient.cpp(976,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchClient.cpp(1055,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchClient.cpp(1085,20): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchClient.cpp(1166,20): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  MTCPSocket.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MTCPSocket.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MTCPSocket.cpp(998,17): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MTCPSocket.cpp(1002,20): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  MServer.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MServer.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandBuilder.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MServer.cpp(28,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  RealCPNet.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\RealCPNet.cpp(195,13): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\RealCPNet.cpp(400,17): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\RealCPNet.cpp(404,20): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\RealCPNet.cpp(619,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\RealCPNet.cpp(867,83): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\RealCPNet.cpp(869,8): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  MPacket.cpp
+  MPacketCrypter.cpp
+  MPacketHShieldCrypter.cpp
+  MLadderMgr.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MLadderPicker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MLadderPicker.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MLadderPicker.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MLadderPicker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MLadderStatistics.cpp
+  MTeamGameStrategy.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MTeamGameStrategy.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MTeamGameStrategy.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchLocale.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MTeamGameStrategy.cpp(428,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MTeamGameStrategy.cpp(429,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MTeamGameStrategy.cpp(433,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MTeamGameStrategy.cpp(434,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MBaseChannelRule.cpp
+  MMatchActiveTrapMgr.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchActiveTrapMgr.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchChannelRule.cpp
+  MMatchFormula.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchFormula.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchFormula.cpp(101,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchFormula.cpp(128,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchFormula.cpp(155,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MMatchMap.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchMap.cpp(110,23): warning C4477: 'sscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char *'
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchMap.cpp(110,23): warning C4477: 'sscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'const char *'
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchMap.cpp(110,23): warning C4477: 'sscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'const char *'
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchMap.cpp(110,23): warning C4477: 'sscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'const char *'
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchMap.cpp(110,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchStage.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStage.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MTeamGameStrategy.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSacrificeQItemTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchQuestGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuestChallenge.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MActorDef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MNewQuestScenario.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleSurvival.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchSurvivalGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleDuel.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleDuelTournament.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchWorldItemDesc.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStage.cpp(681,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStage.cpp(723,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStage.cpp(742,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStage.cpp(821,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStage.cpp(1107,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchStageSetting.cpp
+  MMatchWorldItem.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchWorldItem.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchWorldItemDesc.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchWorldItemDesc.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchWorldItemDesc.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchWorldItemDesc.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\FileInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchWorldItemDesc.cpp(186,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchWorldItemDesc.cpp(283,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchWorldItemDesc.cpp(293,17): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchNPCObject.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchNPCObject.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSacrificeQItemTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchQuestGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchQuest.cpp
+  MMatchQuestGameLog.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchQuestGameLog.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchQuestGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  MMatchQuestMonsterGroup.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\FileInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchQuestRound.cpp
+  MMatchSurvivalGameLog.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchSurvivalGameLog.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchSurvivalGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob_SurvivalMode.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MQuestDropTable.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestDropTable.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MQuestFormula.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestFormula.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MQuestItem.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestItem.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MQuestLevel.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestLevel.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestLevel.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MQuestLevelGenerator.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestLevelGenerator.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestLevel.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MQuestNPCSpawnTrigger.cpp
+  MQuestPlayer.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSacrificeQItemTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchQuestGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MSacrificeQItemTable.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MSacrificeQItemTable.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSacrificeQItemTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchQuestGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MSurvivalRankInfo.cpp
+  MBaseQuest.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MBaseQuest.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MQuestMap.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestMap.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestMap.cpp(142,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestMap.cpp(209,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestMap.cpp(273,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MQuestNPC.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(252,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(256,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(260,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(288,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(463,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(467,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(471,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(484,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(626,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(627,19): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(653,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(655,19): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestNPC.cpp(755,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MQuestScenario.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestScenario.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestScenario.cpp(380,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestScenario.cpp(384,8): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestScenario.cpp(413,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MQuestScenario.cpp(417,8): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MSurvivalMap.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MSurvivalMap.cpp(39,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MBaseGameType.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MBaseGameType.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchGameType.cpp
+  MMatchRule.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRule.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchEventFactory.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRule.cpp(118,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRule.cpp(127,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRule.cpp(136,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  MMatchRuleAssassinate.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleAssassinate.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleBerserker.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleBerserker.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleDeathMatch.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleDeathMatch.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleDuel.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleDuel.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleDuel.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleGladiator.cpp
+  MMatchRuleTraining.cpp
+  MMatchRuleBaseQuest.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleBaseQuest.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestLevelGenerator.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleQuest.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleQuest.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSacrificeQItemTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchQuestGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestLevel.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestLevelGenerator.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleQuest.cpp(980,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchRuleSurvival.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleSurvival.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleSurvival.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSacrificeQItemTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchSurvivalGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestLevel.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestLevelGenerator.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleSurvival.cpp(950,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchDuelTournamentMgr.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDuelTournamentMgr.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDuelTournamentMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MDuelTournamentMatchMaker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MDuelTournamentMatchMaker.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MDuelTournamentMatchMaker.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MDuelTournamentMatchMaker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MDuelTournamentTicketPicker.cpp
+  MDuelTournamentTimeChecker.cpp
+  MMatchRuleDuelTournament.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleDuelTournament.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleDuelTournament.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchRuleDuelTournament.cpp(724,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MDuelTournamentFormula.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MDuelTournamentFormula.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAgentObject.cpp
+  MMatchAntiHack.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchAntiHack.cpp(19,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchHShield.cpp
+  MMatchObjCache.cpp
+  MMatchObject.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchObject.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  MMatchObjectCharBuffInfo.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchObjectCharBuffInfo.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchObjectCommandHistory.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\MMatchObjectCommandHistory.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchItem.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchItem.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchItem.cpp(777,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchItemFunction.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchItemFunction.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchDBGambleItem.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBGambleItem.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchGambleItem.cpp
+  MMatchGambleMachine.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchGambleMachine.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchBuff.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchBuff.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchBuffSummary.cpp
+  MMatchAccountPenaltyInfo.cpp
+  MMatchBRMachine.cpp
+  MMatchCharBRInfo.cpp
+  MMatchDBMgr.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(647,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(676,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(927,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(1977,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(2147,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(2344,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(3372,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(3797,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(4639,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(4640,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr.cpp(4641,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchDBMgr_AccountItem.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchDBMgr_AccountItem.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchDBFilter.cpp
+  MMatchAdmin.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchAdmin.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchAdmin.cpp(129,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchAdmin.cpp(149,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchChannel.cpp
+  MMatchChatRoom.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchChatRoom.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchChatRoom.cpp(15,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchCheckLoopTime.cpp
+  MMatchClan.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchClan.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  MMatchFriendInfo.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchFriendInfo.cpp(88,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchFriendInfo.cpp(89,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchGlobal.cpp
+  MMatchNotify.cpp
+  MMatchPremiumIPCache.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchPremiumIPCache.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchSchedule.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchSchedule.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchSchedule.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchSchedule.cpp(657,9): warning C4996: '_localtime64': This function or variable may be unsafe. Consider using _localtime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchShop.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShop.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchShutdown.cpp
+  MMatchStatus.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStatus.cpp(53,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStatus.cpp(57,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStatus.cpp(61,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStatus.cpp(65,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStatus.cpp(79,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStatus.cpp(81,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStatus.cpp(95,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchStatus.cpp(97,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchTransDataType.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchTransDataType.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchTransDataType.cpp(46,23): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchTransDataType.cpp(47,23): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchTransDataType.cpp(48,23): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  MMatchUtil.cpp
+  MSmartRefreshImpl.cpp
+  MVoteDiscussImpl.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MVoteDiscussImpl.cpp(37,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MVoteMgr.cpp
+  MMatchServer.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShop.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchWorldItemDesc.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchSchedule.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MQuestFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSacrificeQItemTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandBuilder.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchLocale.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchEventFactory.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDuelTournamentMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MDuelTournamentMatchMaker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuestChallenge.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MActorDef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MNewQuestScenario.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(103,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(479,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(484,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(485,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MTeamGameStrategy.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(830,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(1041,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(1965,16): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(2017,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(2241,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(2299,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(2309,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(2319,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(2684,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(2932,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(3091,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(3137,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(3882,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(4112,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(4113,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(4140,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(4141,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(4142,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(4148,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(4149,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer.cpp(4150,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchServer_Admin.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Admin.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShop.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchServer_Agent.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandBuilder.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Agent.cpp(105,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchServer_AntiHack.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandBuilder.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchServer_Async.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Async.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob_SurvivalMode.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Async.cpp(365,3): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Async.cpp(523,3): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Async.cpp(546,3): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Async.cpp(561,3): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Async.cpp(574,3): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Async.cpp(586,3): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Async.cpp(634,3): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Async.cpp(647,24): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchServer_Channel.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Channel.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShop.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchServer_Char.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Char.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShop.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchLocale.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  MMatchServer_Clan.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Clan.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShop.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Clan.cpp(886,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchServer_DuelTournament.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_DuelTournament.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDuelTournamentMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MDuelTournamentMatchMaker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchServer_Item.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Item.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShop.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchServer_Ladder.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Ladder.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShop.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MTeamGameStrategy.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchServer_Login.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Login.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandBuilder.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchLocale.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchServer_OnCommand.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchSchedule.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchServer_Quest.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Quest.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSacrificeQItemTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchQuestGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShop.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MActorDef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchServer_Stage.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchFormula.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchShop.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchDBGambleItem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleBaseQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuest.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MSacrificeQItemTable.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchQuestGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleDuel.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MNewQuestScenario.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleQuestChallenge.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MActorDef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchRuleSurvival.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchSurvivalGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(339,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(870,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\CMPtrList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(1203,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(1711,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(1586,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(2551,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(2985,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(2995,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(3006,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(3014,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(3038,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchServer_Stage.cpp(3058,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchServer_Survival.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\MMatchServer_Survival.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob_SurvivalMode.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchEvent.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchEventFactory.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\MMatchEventFactory.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchLocale.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchEventFactory.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchEventManager.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchEventManager.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MMatchConfig.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchConfig.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchConfig.cpp(438,21): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchConfig.cpp(550,10): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchConfig.cpp(572,11): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchConfig.cpp(615,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MAsyncDBJob.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MAsyncDBJob.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchQuestGameLog.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MAsyncDBJob.cpp(12,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MAsyncDBJob.cpp(53,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MAsyncDBJob_BuyQuestItem.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_CharFinalize.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MAsyncDBJob_CharFinalize.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_DuelTournament.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_Event.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_FriendList.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_GetAccountItemList.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\MAsyncDBJob_GetAccountItemList.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  MAsyncDBJob_GetBRDescription.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_GetLoginInfo.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MAsyncDBJob_GetLoginInfo.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_InsertCharBRInfo.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_InsertConnLog.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_InsertGamePlayerLog.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_RewardCharBR.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_SurvivalMode.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob_SurvivalMode.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_UpdateCharBRInfo.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_UpdateCharInfoData.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_UpdateCharItemInfoData.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncDBJob_WinTheClanGame.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MAsyncDBJob.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MAsyncProxy.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MAsyncProxy.cpp(15,46): warning C4302: 'type cast': truncation from 'HANDLE' to 'BYTE'
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MAsyncProxy.cpp(107,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MCommandCommunicator.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MCommandCommunicator.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MCommandBuilder.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MXmlParser.cpp
+  MBaseLocale.cpp
+  MMatchLocale.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MMatchLocale.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchLocale.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  MNJ_DBAgentClient.cpp
+  MBaseStringResManager.cpp
+  MMatchStringResManager.cpp
+  MConnectHistory.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\MConnectHistory.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  MHackingTypes.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\MHackingTypes.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  TestCRC32XORCache.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\TestCRC32XORCache.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\TestCRC32XORCache.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Include\MMatchWorldItemDesc.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Source\TestCRC32XORCache.cpp(55,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MMatchDebug.cpp
+  SpyMode.cpp
+  Generating Code...
+  CSCommon.vcxproj -> C:\DriveC\gunz1.5-reupload\Stable\CSCommon\Lib\CSCommon.lib

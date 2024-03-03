@@ -1,0 +1,342 @@
+﻿  stdafx.cpp
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MZFileSystem.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MZip.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\fileinfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MXml.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MXml.h(29,1): warning C4192: automatically excluding 'ISequentialStream' while importing type library 'msxml6.dll'
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MXml.h(29,1): warning C4192: automatically excluding '_FILETIME' while importing type library 'msxml6.dll'
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RTypes.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshNode.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshNodeData.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMtrl.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBaseTexture.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAnimationMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAnimation.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAnimationDef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MemPool.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RHalfEdgeMesh.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RHalfEdgeMesh.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RMesh.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RMesh.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RMesh.cpp(383,102): warning C4819: The file contains a character that cannot be represented in the current code page (0). Save the file in Unicode format to prevent data loss
+  RMesh_Frame.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RMesh_Frame.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RMesh_Load.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RMesh_Load.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RMesh_Load.cpp(880,1): warning C4005: 'MZF_READ': macro redefinition
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RMesh_Load.cpp(740): message : see previous definition of 'MZF_READ'
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RMesh_Load.cpp(1076,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RMesh_Mtrl.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RMesh_Mtrl.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RMesh_Render.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RMesh_Render.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\ROcclusionList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RMeshMgr.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RMeshNode.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RMeshNode.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RMeshNode.cpp(1104,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RMeshNodeData.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RMeshNodeData.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RMeshNodeStringTable.cpp
+  RMeshUtil.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RMeshUtil.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RMtrl.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RMtrl.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMtrl.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMtrl.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MProfiler.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RVisualMesh.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RVisualMesh.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MProfiler.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RCharCloth.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RCloth.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBoundary.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RVisualMesh.cpp(1358,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RVisualMesh.cpp(2553,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RVisualMeshMgr.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RVisualMeshMgr.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MProfiler.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBspObject.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RToken.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\ROcclusionList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RSolidBsp.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RNavigationMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RLine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAStar.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RVisualMeshUtil.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RVisualMeshUtil.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RAniEventInfo.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RAniEventInfo.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RAnimation.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RAnimation.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RAnimationFile.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RAnimationFile.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RAnimationMgr.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\source\RAnimationMgr.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RAnimationNode.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RAnimationNode.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  RBoundary.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBoundary.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RCharCloth.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RCharCloth.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RCharCloth.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RCloth.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBoundary.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\Realspace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MProfiler.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RCloth.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RCloth.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RCloth.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBoundary.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RCylinder.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RCylinder.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBoundary.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RSphere.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBoundary.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RBspObject.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RBspObject.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBspObject.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RToken.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\ROcclusionList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RSolidBsp.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RNavigationMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RLine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAStar.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RVisualMeshUtil.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAniEventInfo.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\MProfiler.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RLenzFlare.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RBspObject.cpp(367,22): warning C4018: '<': signed/unsigned mismatch
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RBspObject.cpp(2193,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RBspObject.cpp(3258,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RCollisionDetection.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RCollisionDetection.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RCollisionDetection.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RDummyList.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RToken.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RDynamicLight.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RDynamicLight.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RDynamicLight.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RLenzFlare.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RLenzFlare.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBspObject.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RToken.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\ROcclusionList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RSolidBsp.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RNavigationMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RLine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAStar.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RLenzFlare.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RLightList.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RToken.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RMaterialList.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RToken.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  ROcclusionList.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\ROcclusionList.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\ROcclusionList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RToken.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RPVS.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RPVS.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RBspObject.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMeshMgr.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RToken.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\ROcclusionList.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RSolidBsp.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RNavigationMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RLine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAStar.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RRoam.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RRoam.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RSolidBsp.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RSolidBsp.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RSolidBsp.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RAStar.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RAStar.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAStar.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RLine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RNavigationMesh.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RNavigationMesh.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RNavigationMesh.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RLine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAStar.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RNavigationNode.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RNavigationNode.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RLine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RAStar.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RBaseTexture.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RBaseTexture.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  RCamera.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RCamera.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RError.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RFont.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RFont.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RFont.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\Realspace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\CML\Include\mprofiler.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RParticleSystem.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RParticleSystem.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RShaderMgr.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RMtrl.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RToken.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RToken.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RealSpace2.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RealSpace2.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RFrameWork.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RFont.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RealSpace2.cpp(1002,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RFrameWork.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RFrameWork.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RFont.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  RTypes.cpp
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Source\RTypes.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RealSpace2.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Include\RError.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (874). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  RealSpace2.vcxproj -> C:\DriveC\gunz1.5-reupload\Stable\RealSpace2\Lib\RealSpace2.lib
